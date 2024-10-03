@@ -1,0 +1,67 @@
+*{
+    margin: 10px;
+    padding: 8px;
+    border: 2px;
+}
+
+body
+{
+    font-family: 'Poppins', sans-serif;
+    font-style: 15px;
+    background-color:rgb(162, 213, 243);
+    color: rgb(0, 0, 0);
+}
+
+
+li:hover{
+    font-size: 1.4em;
+    font-weight: bold;
+
+}
+
+
+ul{
+
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    list-style: none;
+}
+
+
+.Inicio
+{
+
+background-color: rgb(0, 62, 87);
+color: rgb(94, 189, 233);;
+width: auto;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+
+img {
+
+width: 300px;
+border-radius: 30%;
+transform: translate(420px);
+}
+
+.input{
+    display:contents;
+
+}
+
+
+
+
+
+
+footer {
+Background-color: rgb(0, 62, 87);
+color: rgb(94, 189, 233);
+Text-align: center;
+Padding: 5px 0;
+bottom: 0;
+Width: 100;
+
+}
